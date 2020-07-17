@@ -18,8 +18,8 @@ function woodCalculator(chair,table,bed)
    var woodOfChair = chair*1;
    var woodOfTable = table*3;
    var woodOfBed = bed*5;
-   var total = woodOfChair + woodOfTable + woodOfBed;
-   return total;
+   var totalWood = woodOfChair + woodOfTable + woodOfBed;
+   return totalWood;
 }
 
 
